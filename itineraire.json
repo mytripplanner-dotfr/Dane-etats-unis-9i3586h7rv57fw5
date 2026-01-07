@@ -1,0 +1,414 @@
+{
+  "pays": "États-Unis",
+  "drapeau": "🇺🇸",
+  "symbole": "🗽",
+  "titre": "Évasion Hivernale au Cœur du Wisconsin",
+  "budget_total": "Environ 3500 €/personne",
+  "duree": "12 jours",
+  "date_debut": "2026-01-20",
+  "date_fin": "2026-01-31",
+  "temps_vol": "8h00 (depuis San Jose, États-Unis)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée en douceur à Madison",
+      "legende": "Après votre vol, prenez le temps de vous installer dans la capitale du Wisconsin. Une première soirée calme pour s'acclimater au climat hivernal et à l'ambiance locale.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🛬 Arrivée à l'aéroport de Dane County (MSN)</strong>: Récupération des bagages et de votre véhicule de location.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Détendez-vous après le voyage et préparez-vous pour l'exploration.",
+        "<strong>🍽️ Dîner réconfortant</strong>: Savourez un premier repas dans un restaurant local, peut-être avec une vue sur le lac gelé."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Janvier à Madison est froid et souvent enneigé. Prévoyez des vêtements très chauds, des couches, un bon manteau, des gants, un bonnet et des chaussures imperméables."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏛️",
+      "titre": "Majesté du Capitole et Vie Urbaine",
+      "legende": "Découvrez l'impressionnant Capitole de l'État du Wisconsin, puis flânez dans les rues animées du centre-ville, entre boutiques et cafés chaleureux.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🏛️ Visite du Capitole de l'État du Wisconsin</strong>: Admirez l'architecture grandiose de ce bâtiment emblématique, l'un des plus beaux des États-Unis.",
+        "<strong>🚶‍♀️ Balade sur State Street</strong>: Explorez cette rue piétonne vibrante reliant le Capitole à l'Université, parsemée de boutiques uniques et de cafés douillets.",
+        "<strong>☕ Pause détente</strong>: Réchauffez-vous avec une boisson chaude et une pâtisserie dans un café local."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Wisconsin State Capitol, Madison",
+          "categorie": "Bâtiment historique",
+          "coords": { "lat": 43.0746, "lng": -89.3847 }
+        },
+        {
+          "nom_recherche": "State Street, Madison",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 43.0763, "lng": -89.3908 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Astuce",
+          "texte": "Le Capitole offre des visites guidées gratuites qui permettent d'en apprendre davantage sur son histoire et son architecture."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🖼️",
+      "titre": "Art, Culture et Vues Lacustres",
+      "legende": "Plongez dans l'art au Chazen Museum, puis profitez des vues hivernales sur le lac Mendota depuis un point de vue chaleureux.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🎨 Exploration du Chazen Museum of Art</strong>: Parcourez les collections variées de ce musée universitaire, offrant une échappée culturelle au chaud.",
+        "<strong>🚶‍♂️ Promenade au bord du lac Mendota</strong>: Si le temps le permet, une courte balade sur les sentiers enneigés offre des vues sereines sur le lac gelé.",
+        "<strong>🌅 Coucher de soleil depuis Memorial Union Terrace</strong>: Admirez les couleurs du ciel hivernal sur le lac depuis l'intérieur chaleureux du Memorial Union, un lieu emblématique de l'université."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Chazen Museum of Art, Madison",
+          "categorie": "Musée",
+          "coords": { "lat": 43.0739, "lng": -89.4079 }
+        },
+        {
+          "nom_recherche": "Memorial Union, Madison",
+          "categorie": "Lieu de vie universitaire",
+          "coords": { "lat": 43.0768, "lng": -89.4007 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "❄️",
+          "titre": "Activité hivernale",
+          "texte": "En hiver, le lac Mendota peut geler suffisamment pour des activités comme le patinage ou la pêche sur glace, mais vérifiez toujours les conditions de sécurité locales."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🌿",
+      "titre": "Évasion Tropicale et Architecture Moderne",
+      "legende": "Échappez au froid dans la serre tropicale des jardins botaniques, puis admirez l'architecture unique du Monona Terrace, offrant des vues imprenables sur le lac.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🌴 Visite des Olbrich Botanical Gardens (Bolz Conservatory)</strong>: Plongez dans une atmosphère tropicale luxuriante et chaude, un véritable havre de paix en plein hiver.",
+        "<strong>🚶‍♀️ Découverte du Monona Terrace Community and Convention Center</strong>: Explorez ce chef-d'œuvre architectural de Frank Lloyd Wright, offrant des panoramas magnifiques sur le lac Monona.",
+        "<strong>📚 Lecture et détente</strong>: Profitez d'un moment de calme dans une librairie indépendante ou un café, avec un bon livre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Olbrich Botanical Gardens, Madison",
+          "categorie": "Jardin botanique",
+          "coords": { "lat": 43.0901, "lng": -89.3361 }
+        },
+        {
+          "nom_recherche": "Monona Terrace, Madison",
+          "categorie": "Centre de congrès",
+          "coords": { "lat": 43.0718, "lng": -89.3809 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🌺",
+          "titre": "Conseil",
+          "texte": "Le Bolz Conservatory est une serre pyramidale abritant des plantes exotiques, des oiseaux et une cascade, un vrai régal pour les sens en hiver."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "📜",
+      "titre": "Histoire du Wisconsin et Saveurs Locales",
+      "legende": "Explorez le passé fascinant du Wisconsin au musée historique, puis réchauffez-vous avec une dégustation dans une brasserie artisanale locale.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🏛️ Visite du Wisconsin Historical Museum</strong>: Découvrez l'histoire riche et diverse de l'État, des peuples autochtones aux pionniers.",
+        "<strong>🍻 Dégustation dans une brasserie artisanale</strong>: Profitez de l'ambiance chaleureuse d'une brasserie locale et goûtez aux bières du Wisconsin.",
+        "<strong>🍽️ Dîner avec spécialités locales</strong>: Goûtez aux fameux \"cheese curds\" frits ou à une bonne bratwurst."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Wisconsin Historical Museum, Madison",
+          "categorie": "Musée",
+          "coords": { "lat": 43.0754, "lng": -89.3853 }
+        },
+        {
+          "nom_recherche": "Great Dane Pub & Brewing Co., Madison",
+          "categorie": "Brasserie",
+          "coords": { "lat": 43.0749, "lng": -89.3869 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧀",
+          "titre": "Gourmandise",
+          "texte": "Le Wisconsin est surnommé \"The Dairy State\" (l'État laitier) et est réputé pour ses fromages. Ne manquez pas les \"cheese curds\"!"
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🎓",
+      "titre": "Ambiance Universitaire et Détente",
+      "legende": "Imprégnez-vous de l'énergie du campus de l'Université du Wisconsin-Madison, puis profitez d'un après-midi relaxant à votre rythme.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🚶‍♀️ Exploration du campus de l'UW-Madison</strong>: Baladez-vous sur Bascom Hill et découvrez l'effervescence de l'une des plus grandes universités publiques des États-Unis.",
+        "<strong>📚 Visite de la bibliothèque Memorial Library</strong>: Admirez l'architecture et l'ambiance studieuse de cette immense bibliothèque universitaire.",
+        "<strong>💆‍♀️ Après-midi libre ou spa</strong>: Offrez-vous un moment de détente dans un spa local pour un massage ou un soin relaxant."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "University of Wisconsin-Madison",
+          "categorie": "Université",
+          "coords": { "lat": 43.0753, "lng": -89.4034 }
+        },
+        {
+          "nom_recherche": "Memorial Library, Madison",
+          "categorie": "Bibliothèque",
+          "coords": { "lat": 43.0757, "lng": -89.4018 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Le saviez-vous ?",
+          "texte": "L'Université du Wisconsin-Madison est célèbre pour ses recherches et a vu passer de nombreux prix Nobel et personnalités influentes."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🏞️",
+      "titre": "Nature Hivernale et Vues Panoramiques",
+      "legende": "Profitez d'une douce promenade dans un parc enneigé, puis admirez les paysages hivernaux depuis un point de vue élevé.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🚶‍♂️ Balade au Warner Park</strong>: Enfilez vos chaussures de marche et profitez d'une promenade tranquille dans ce grand parc, idéal pour observer la nature en hiver.",
+        "<strong>📸 Point de vue sur les lacs</strong>: Rendez-vous à un endroit offrant une vue panoramique sur les lacs gelés de Madison, comme le belvédère de Tenney Park.",
+        "<strong>🍲 Soirée cocooning</strong>: Préparez un repas simple à l'hôtel ou commandez à emporter pour une soirée au chaud."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Warner Park, Madison",
+          "categorie": "Parc",
+          "coords": { "lat": 43.1361, "lng": -89.3621 }
+        },
+        {
+          "nom_recherche": "Tenney Park, Madison",
+          "categorie": "Parc",
+          "coords": { "lat": 43.0945, "lng": -89.3768 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🧣",
+          "titre": "Conseil",
+          "texte": "Même pour une courte promenade, habillez-vous chaudement. Les températures peuvent chuter rapidement et le vent peut être mordant."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🏘️",
+      "titre": "Escapade Suisse à New Glarus",
+      "legende": "Partez pour une charmante excursion dans le village suisse de New Glarus, découvrez son héritage unique et ses spécialités.",
+      "lieu": "New Glarus",
+      "activites": [
+        "<strong>🚗 Route vers New Glarus</strong>: Profitez d'un court trajet pittoresque (environ 45 min) jusqu'à ce village fondé par des immigrants suisses.",
+        "<strong>🚶‍♀️ Exploration du village</strong>: Flânez dans les rues bordées de chalets suisses, visitez les boutiques d'artisanat et les boulangeries.",
+        "<strong>🍻 Dégustation à New Glarus Brewing Company</strong>: Goûtez aux bières primées de cette brasserie locale, réputée pour sa \"Spotted Cow\"."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "New Glarus, Wisconsin",
+          "categorie": "Village",
+          "coords": { "lat": 42.8225, "lng": -89.6307 }
+        },
+        {
+          "nom_recherche": "New Glarus Brewing Company",
+          "categorie": "Brasserie",
+          "coords": { "lat": 42.8251, "lng": -89.6508 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "🇨🇭",
+          "titre": "Culture",
+          "texte": "New Glarus est le seul \"Swiss Settlement\" des États-Unis, conservant fièrement son héritage helvétique à travers son architecture et ses traditions."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🛍️",
+      "titre": "Shopping Local et Douceurs Sucrées",
+      "legende": "Découvrez les marchés intérieurs ou les boutiques spécialisées de Madison, puis terminez la journée par une douceur glacée typique du Wisconsin.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🛒 Visite d'un marché intérieur ou de boutiques spécialisées</strong>: Cherchez des produits locaux, des fromages ou des souvenirs uniques.",
+        "<strong>🍰 Pause gourmande</strong>: Dégustez une pâtisserie ou un dessert dans un café confortable.",
+        "<strong>🍦 Dégustation de \"Frozen Custard\"</strong>: Terminez la journée avec cette crème glacée riche et onctueuse, une spécialité du Midwest."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Dane County Farmers' Market (hiver), Madison",
+          "categorie": "Marché",
+          "coords": { "lat": 43.0746, "lng": -89.3847 }
+        },
+        {
+          "nom_recherche": "Michael's Frozen Custard, Madison",
+          "categorie": "Dessert",
+          "coords": { "lat": 43.0706, "lng": -89.3992 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "😋",
+          "titre": "Plaisir sucré",
+          "texte": "Le \"Frozen Custard\" est plus dense et crémeux que la crème glacée traditionnelle, un vrai délice même par temps froid!"
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "🧘‍♀️",
+      "titre": "Journée de Sérénité et Bien-être",
+      "legende": "Profitez d'une journée entièrement dédiée à la relaxation, avec des activités douces et un rythme apaisant pour recharger les batteries.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🧘‍♀️ Cours de yoga ou méditation</strong>: Participez à une séance dans un studio local pour une détente profonde.",
+        "<strong>📖 Après-midi lecture et thé</strong>: Installez-vous dans un café cosy ou à votre hôtel avec un bon livre et une boisson chaude.",
+        "<strong>🍽️ Dîner léger et reposant</strong>: Optez pour un repas sain et léger, suivi d'une soirée calme pour bien dormir."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Perennial Yoga & Meditation, Madison",
+          "categorie": "Centre de bien-être",
+          "coords": { "lat": 43.0767, "lng": -89.3908 }
+        },
+        {
+          "nom_recherche": "Ancora Coffee, Madison",
+          "categorie": "Café",
+          "coords": { "lat": 43.0747, "lng": -89.3872 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "✨",
+          "titre": "Conseil bien-être",
+          "texte": "De nombreux studios de yoga proposent des cours d'essai ou des passes journaliers, une excellente façon de se détendre en voyage."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🎁",
+      "titre": "Derniers Souvenirs et Préparatifs",
+      "legende": "Profitez de votre dernière journée pour quelques achats de souvenirs, revisiter un lieu coup de cœur ou simplement vous détendre avant le départ.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🛍️ Achats de dernière minute</strong>: Trouvez les derniers souvenirs ou cadeaux dans les boutiques du centre-ville ou sur State Street.",
+        "<strong>🚶‍♀️ Balade d'adieu</strong>: Profitez d'une dernière promenade dans un quartier que vous avez aimé ou autour du Capitole.",
+        "<strong>🍽️ Dernier repas local</strong>: Savourez un dernier repas typique du Wisconsin avant de quitter la ville."
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "🎁",
+          "titre": "Idées souvenirs",
+          "texte": "Pensez aux fromages locaux (emballés pour le voyage), aux produits de l'Université du Wisconsin ou à des articles artisanaux."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🛫",
+      "titre": "Départ de Madison",
+      "legende": "C'est le moment de dire au revoir à Madison et au Wisconsin, la tête pleine de souvenirs de cette évasion hivernale.",
+      "lieu": "Madison",
+      "activites": [
+        "<strong>🛏️ Check-out de l'hôtel</strong>: Préparez vos bagages et effectuez les formalités de départ.",
+        "<strong>🚗 Retour du véhicule de location</strong>: Déposez votre voiture à l'aéroport de Dane County (MSN).",
+        "<strong>🛫 Vol retour vers San Jose</strong>: Embarquement pour votre vol, avec des souvenirs chaleureux du froid du Wisconsin."
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Conseil",
+          "texte": "Prévoyez suffisamment de temps pour le retour du véhicule et les formalités à l'aéroport, surtout en période hivernale."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 671 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 600 €/pers (location voiture + essence)", "symbole": "🚗" },
+    { "titre": "Budget repas:", "legende": "Environ 720 €/pers (60€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1320 €/pers (120€/nuit pour 11 nuits)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 250 €/pers", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Janvier (pour l'expérience hivernale)", "symbole": "❄️" },
+    { "titre": "Mai-Septembre (pour le temps doux et les activités de plein air)", "symbole": "☀️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En janvier, les températures à Madison varient de -15°C à -5°C. Prévoir des vêtements très chauds, des couches, un bon manteau, des gants, un bonnet et des chaussures imperméables.", "symbole": "🥶" },
+    { "titre": "Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou pourboires.", "symbole": "💳" },
+    { "titre": "Un permis de conduire français est suffisant pour la location de voiture. La conduite se fait à droite, et les vitesses sont indiquées en miles par heure (mph).", "symbole": "🚗" },
+    { "titre": "Une carte SIM locale ou une eSIM est recommandée pour les données mobiles. Le Wi-Fi est généralement disponible dans les hébergements et de nombreux lieux publics.", "symbole": "📶" }
+  ],
+  "infos_decallees": [
+    { 
+      "symbole": "💡", 
+      "titre": "Le saviez-vous ?", 
+      "texte": "Le Wisconsin est surnommé \"The Badger State\" (l'État du Blaireau), non pas à cause d'une abondance de blaireaux, mais en référence aux mineurs de plomb du 19e siècle qui vivaient dans des abris creusés à flanc de colline, comme des blaireaux." 
+    },
+    { 
+      "symbole": "🙃", 
+      "titre": "Insolite", 
+      "texte": "Madison est l'une des deux seules grandes villes des États-Unis construites sur un isthme (une étroite bande de terre entre deux plans d'eau), entre le lac Mendota et le lac Monona, ce qui lui confère une géographie unique et de superbes vues sur l'eau." 
+    }
+  ],
+  "specialites_culinaires": [
+    { 
+      "symbole": "🧀", 
+      "titre": "Cheese Curds", 
+      "description": "Ces petits morceaux de fromage frais, souvent frits et servis avec une sauce ranch, sont un incontournable du Wisconsin, l'État du fromage par excellence." 
+    },
+    { 
+      "symbole": "🌭", 
+      "titre": "Bratwurst", 
+      "description": "Héritage de l'importante population d'origine allemande, la bratwurst est une saucisse grillée, souvent servie dans un petit pain avec de la choucroute et de la moutarde épicée." 
+    },
+    { 
+      "symbole": "🍦", 
+      "titre": "Frozen Custard", 
+      "description": "Plus riche et plus crémeuse que la crème glacée traditionnelle grâce à l'ajout de jaunes d'œufs, cette douceur glacée est un délice populaire, même en plein hiver." 
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/SJC-MSN/2026-01-20/2026-01-31", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Travel Wisconsin", "url": "https://www.travelwisconsin.com/", "symbole": "📘" },
+    { "legende": "Tourisme Madison", "titre": "Destination Madison", "url": "https://www.visitmadison.com/", "symbole": "🏙️" },
+    { "legende": "Météo", "titre": "Météo Madison", "url": "https://www.weather.com/weather/today/l/USWI0411:1:US", "symbole": "🌤️" }
+  ]
+}
